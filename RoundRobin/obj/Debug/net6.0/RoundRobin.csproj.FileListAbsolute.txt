@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\bin\Debug\net6.0\RoundRobin.exe
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\bin\Debug\net6.0\RoundRobin.deps.json
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\bin\Debug\net6.0\RoundRobin.runtimeconfig.json
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\bin\Debug\net6.0\RoundRobin.dll
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\bin\Debug\net6.0\RoundRobin.pdb
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\obj\Debug\net6.0\RoundRobin.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\obj\Debug\net6.0\RoundRobin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\obj\Debug\net6.0\RoundRobin.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\obj\Debug\net6.0\RoundRobin.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\obj\Debug\net6.0\RoundRobin.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\obj\Debug\net6.0\RoundRobin.dll
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\obj\Debug\net6.0\refint\RoundRobin.dll
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\obj\Debug\net6.0\RoundRobin.pdb
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\obj\Debug\net6.0\RoundRobin.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Round Robin\RoundRobin\obj\Debug\net6.0\ref\RoundRobin.dll

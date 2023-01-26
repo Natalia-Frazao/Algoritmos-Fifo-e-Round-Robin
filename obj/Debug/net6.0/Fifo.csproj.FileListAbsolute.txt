@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\Round Robin\Fifo\bin\Debug\net6.0\Fifo.exe
+C:\Users\usuario\Desktop\Round Robin\Fifo\bin\Debug\net6.0\Fifo.deps.json
+C:\Users\usuario\Desktop\Round Robin\Fifo\bin\Debug\net6.0\Fifo.runtimeconfig.json
+C:\Users\usuario\Desktop\Round Robin\Fifo\bin\Debug\net6.0\Fifo.dll
+C:\Users\usuario\Desktop\Round Robin\Fifo\bin\Debug\net6.0\Fifo.pdb
+C:\Users\usuario\Desktop\Round Robin\Fifo\obj\Debug\net6.0\Fifo.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Round Robin\Fifo\obj\Debug\net6.0\Fifo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Round Robin\Fifo\obj\Debug\net6.0\Fifo.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Round Robin\Fifo\obj\Debug\net6.0\Fifo.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Round Robin\Fifo\obj\Debug\net6.0\Fifo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Round Robin\Fifo\obj\Debug\net6.0\Fifo.dll
+C:\Users\usuario\Desktop\Round Robin\Fifo\obj\Debug\net6.0\refint\Fifo.dll
+C:\Users\usuario\Desktop\Round Robin\Fifo\obj\Debug\net6.0\Fifo.pdb
+C:\Users\usuario\Desktop\Round Robin\Fifo\obj\Debug\net6.0\Fifo.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Round Robin\Fifo\obj\Debug\net6.0\ref\Fifo.dll

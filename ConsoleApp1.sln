@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fifo", "Fifo.csproj", "{1845204B-20E8-4012-816D-CCBC2D1E70B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundRobin", "..\RoundRobin\RoundRobin.csproj", "{18B88B00-8E6E-4D9B-9541-C9889C6E8FD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1845204B-20E8-4012-816D-CCBC2D1E70B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1845204B-20E8-4012-816D-CCBC2D1E70B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1845204B-20E8-4012-816D-CCBC2D1E70B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1845204B-20E8-4012-816D-CCBC2D1E70B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B88B00-8E6E-4D9B-9541-C9889C6E8FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B88B00-8E6E-4D9B-9541-C9889C6E8FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B88B00-8E6E-4D9B-9541-C9889C6E8FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B88B00-8E6E-4D9B-9541-C9889C6E8FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEC8B622-0EEA-4EB8-AB86-F9ED38B60F3E}
+	EndGlobalSection
+EndGlobal
